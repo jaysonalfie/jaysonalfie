@@ -2,6 +2,7 @@
 
 
 ### Hi there , I'm Jayson Alfie👋
+- 🌱 I’m currently learning Laravel and React JS for web development
 
 
 <!--
