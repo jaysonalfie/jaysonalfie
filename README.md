@@ -3,6 +3,7 @@
 
 ### Hi there , I'm Jayson Alfie👋
 - 🌱 I’m currently learning Laravel and React JS for web development
+- I’m looking to collaborate on web development projects in Laravel and React JS to provide creative solutions
 
 
 <!--
