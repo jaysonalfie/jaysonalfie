@@ -1,8 +1,8 @@
 # **jaysonalfie profile**
 
 
-### Hi there , I'm Jayson Alfie👋
-- 🌱 I’m currently learning Laravel and React JS for web development
+### Hi there , I'm <mark>**Jayson Alfie**</mark>👋
+- 🌱 I’m currently learning `Laravel` and `React JS` for  <mark>web development</mark>
 - I’m looking to collaborate on web development projects in Laravel and React JS to provide creative solutions
 
 
