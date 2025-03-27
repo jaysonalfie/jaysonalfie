@@ -2,7 +2,7 @@
 
 
 ### Hi there , I'm <mark>**Jayson Alfie**</mark>👋
-- 🌱 I’m currently learning `Laravel` and `React JS` for  <mark>Web development</mark>
+- 🌱 I’m currently learning `Laravel` , `Livewire` and `React JS` for  <mark>Web development</mark>
 - 👀 I’m looking to collaborate on <mark>web development</mark> projects in Laravel and React JS to provide creative solutions
 
 
